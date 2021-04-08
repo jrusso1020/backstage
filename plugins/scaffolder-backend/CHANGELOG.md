@@ -1,5 +1,12 @@
 # @backstage/plugin-scaffolder-backend
 
+## 0.9.6
+
+### Patch Changes
+
+- d8ffec739: Add built-in publish action for creating GitHub pull requests.
+- a376e3ee8: Adds a collaborator field to GitHub publish action for multiple users and access levels
+
 ## 0.9.5
 
 ### Patch Changes
